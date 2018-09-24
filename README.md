@@ -1,0 +1,36 @@
+<h1>EXE Coin</h1>
+
+
+The EXE coin was born for real gold trading. At present (March 2018), Korea Gold Exchange can accept EXE Coin.
+EXE is not really designed for multi-level marketing or scam.
+Currently, EXE coin is allowed in gold transactions only in Korea
+It will be made possible to trade gold in China, Japan, and Vietnam within 2018.
+
+
+
+
+
+<h1>EXE Coin Website</h1>
+
+<h3>https://EXEcoin.com/</h3>
+
+
+<Br><Br><Br>
+  
+
+
+
+| Specification  | Details |
+| ------------- | ------------- |
+| Protocol  | POW(Proof of Work) + POS(1% 1/year)(PoS)  |
+| Block Time  | 1 minutes |
+| Block Rewards  | 0.01 Coin  |
+| Stake  | 10% per year depending on difficulty  |
+| Stake Weight | 2/14 min/max days |
+| Stake Threshold | 10 days |
+| Fee | .1 Coin |
+| RPC Port  | 23261  |
+| P2P Port | 19228 |
+| Cryptographic Algorithm  | x13  |
+| Difficulty Retarget  | 16 minutes or 8 blocks |
+
